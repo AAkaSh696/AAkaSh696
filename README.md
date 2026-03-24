@@ -20,7 +20,7 @@
 - AWS 
 - Shell Scripting
 - Gitlab
-( Keep Adding ...) 
+- ( Keep Adding ...)/ More Coming on 🔥 
 
 ---
 
