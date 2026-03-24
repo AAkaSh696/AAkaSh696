@@ -20,13 +20,7 @@
 - AWS 
 - Shell Scripting
 - Gitlab
-
----
-
-## 📂 My Projects
-- 🔹 DevOps Projects: https://github.com/AAkaSh696
-- 🔹 Docker Practice
-- 🔹 AWS Deployment Projects
+( Keep Adding ...) 
 
 ---
 
