@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Aakash 👋
 
-<!--
-**AAkaSh696/AAkaSh696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 3rd Year CSE Student
+- 🌱 Currently learning DevOps
+- 💻 Passionate about Linux, Cloud & Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm Working On
+- Working on 90 Days of DevOps Challenge
+- Building real-world DevOps skills
+
+---
+
+## 🛠️ Skills & Tools
+- Linux
+- Git & GitHub
+- Docker
+- AWS 
+- Shell Scripting
+- Gitlab
+
+---
+
+## 📂 My Projects
+- 🔹 DevOps Projects: https://github.com/AAkaSh696
+- 🔹 Docker Practice
+- 🔹 AWS Deployment Projects
+
+---
+
+## 📫 Contact Me
+- 📧 Email: ak9911543734@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aakash-sharma-17819738a/
+
+---
+
+⭐ Always learning and building in public
