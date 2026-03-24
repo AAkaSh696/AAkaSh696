@@ -25,8 +25,10 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: ak9911543734@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aakash-sharma-17819738a/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakash-sharma-17819738a/)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ak9911543734@gmail.com)
 
 ---
 
