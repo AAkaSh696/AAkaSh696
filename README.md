@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Shell_Scripting-grey?style=for-the-badge&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab" />
 </p>
 - ( Keep Adding ...)/ More Coming on 🔥 
 
