@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Shell_Scripting-grey?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 - ( Keep Adding ...)/ More Coming on 🔥 
 
